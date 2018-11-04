@@ -1,0 +1,1 @@
+INSERT INTO BOOK (TITLE , AUTHOR, PAGES, LANGUAGE ) values ('First Man', 'Hawking', 250, 'ENG');
